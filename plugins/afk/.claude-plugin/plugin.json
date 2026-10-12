@@ -1,0 +1,9 @@
+{
+  "name": "afk",
+  "version": "0.1.0",
+  "description": "Keep working while you're away: make the calls you'd likely make, log the significant ones, and review them when you return.",
+  "author": {
+    "name": "dahoff"
+  },
+  "keywords": ["afk", "autonomous", "decisions", "review"]
+}

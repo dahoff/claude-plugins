@@ -11,6 +11,11 @@
       "name": "handoff",
       "description": "Save the current session state to a handoff note, then resume it in a fresh session after clearing context.",
       "source": "./plugins/handoff"
+    },
+    {
+      "name": "afk",
+      "description": "Keep working while you're away: make the calls you'd likely make, log the significant ones, and review them when you return.",
+      "source": "./plugins/afk"
     }
   ]
 }
