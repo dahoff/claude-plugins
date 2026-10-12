@@ -1,0 +1,10 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "dahoff",
+  "description": "Personal Claude Code plugins: skills, agents, hooks, commands and more.",
+  "owner": {
+    "name": "dahoff",
+    "email": "modedepe@yahoo.com"
+  },
+  "plugins": []
+}
