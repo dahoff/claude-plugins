@@ -1,0 +1,9 @@
+{
+  "name": "handoff",
+  "version": "0.1.1",
+  "description": "Save the current session state to a handoff note, then resume it in a fresh session after clearing context.",
+  "author": {
+    "name": "dahoff"
+  },
+  "keywords": ["handoff", "context", "session", "resume"]
+}
